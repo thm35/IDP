@@ -1,4 +1,5 @@
 //thm35
+//line following code to run for 2 central sensors and 2 wide sensors
 #include "header.h"
 #include "line_follow.h"
 

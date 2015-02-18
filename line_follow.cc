@@ -1,4 +1,5 @@
 //thm35
+//line following code to run for three sensors
 #include "header.h"
 #include "line_follow.h"
 
